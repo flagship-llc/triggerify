@@ -1,0 +1,6 @@
+---
+en:
+  rules:
+    index:
+      title: "Rules"
+      description: "These are the rules you created."
